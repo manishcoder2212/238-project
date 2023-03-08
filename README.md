@@ -1,1 +1,1 @@
-# 238-project
+# networking-ecommerce
